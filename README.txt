@@ -1,3 +1,5 @@
+Can be run at: https://repl.it/@The0z/fcc-ArithmeticArranger#arithmetic_arranger.py
+
 Visit https://repl.it/@freeCodeCamp/fcc-arithmetic-arranger#README.md for full
 details on the project.
 
